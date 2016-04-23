@@ -17,6 +17,9 @@ class ViewController: UIViewController {
 
     let timeIntervalFormatter = TTTTimeIntervalFormatter()
     print(timeIntervalFormatter)
+
+    timeIntervalFormatter.usesAbbreviatedCalendarUnits = true
+    print("\(timeIntervalFormatter.stringForTimeInterval(-3600*24*7*3)) == 3 wk ago")
   }
 }
 

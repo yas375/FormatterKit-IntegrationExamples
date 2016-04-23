@@ -17,6 +17,10 @@ class ViewController: UIViewController {
 
     let colorFormatter = TTTColorFormatter()
     print(colorFormatter)
+
+    let intervalFormatter = TTTTimeIntervalFormatter()
+    intervalFormatter.usesAbbreviatedCalendarUnits = true
+    print("\(intervalFormatter.stringForTimeInterval(-3600*24*7*3)) == 3 wk ago")
   }
 }
 
