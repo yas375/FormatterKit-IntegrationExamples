@@ -7,19 +7,16 @@
 //
 
 import UIKit
+import FormatterKit
 
 class ViewController: UIViewController {
-
   override func viewDidLoad() {
     super.viewDidLoad()
-    // Do any additional setup after loading the view, typically from a nib.
+    let locationFormatter = TTTLocationFormatter()
+    print(locationFormatter)
+
+    let colorFormatter = TTTColorFormatter()
+    print(colorFormatter)
   }
-
-  override func didReceiveMemoryWarning() {
-    super.didReceiveMemoryWarning()
-    // Dispose of any resources that can be recreated.
-  }
-
-
 }
 
