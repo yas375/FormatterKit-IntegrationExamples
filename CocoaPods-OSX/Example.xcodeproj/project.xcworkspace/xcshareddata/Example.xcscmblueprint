@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6FD9BB4A97D73D67BF57086BC84FDD6B65DC2B5C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6FD9BB4A97D73D67BF57086BC84FDD6B65DC2B5C" : 0,
+    "21894A0A75320202B345BFF1FAA244FD500BB0D5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2E255327-2C35-4F2C-9CC8-6376DAE21BE9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6FD9BB4A97D73D67BF57086BC84FDD6B65DC2B5C" : "IntegrationExamples\/",
+    "21894A0A75320202B345BFF1FAA244FD500BB0D5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Example",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CocoaPods-OSX\/Example.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mattt\/FormatterKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21894A0A75320202B345BFF1FAA244FD500BB0D5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:yas375\/FormatterKit-IntegrationExamples.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FD9BB4A97D73D67BF57086BC84FDD6B65DC2B5C"
+    }
+  ]
+}
